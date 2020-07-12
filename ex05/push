@@ -1,9 +1,0 @@
-c5r1s1% git push
-Enumerating objects: 6, done.
-Counting objects: 100% (6/6), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (5/5), done.
-Writing objects: 100% (5/5), 547 bytes | 547.00 KiB/s, done.
-Total 5 (delta 0), reused 0 (delta 0)
-To https://github.com/ismlambo/D01.git
-   81cd3a7..767dd1a  master -> master
